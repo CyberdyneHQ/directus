@@ -7,3 +7,4 @@ if (version) {
 }
 
 import('@directus/api/cli/run.js');
+debugger;
